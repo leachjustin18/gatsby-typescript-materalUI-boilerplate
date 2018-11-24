@@ -13,6 +13,8 @@
     "ie >=9"
   ],
   "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
     "gatsby": "^2.0.45",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-favicon": "^3.1.4",
@@ -24,12 +26,18 @@
     "gatsby-plugin-sharp": "^2.0.12",
     "gatsby-plugin-sitemap": "^2.0.2",
     "gatsby-plugin-typescript": "^2.0.1",
+    "gatsby-plugin-typography": "^2.2.1",
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-transformer-sharp": "^2.1.8",
+    "jss": "^9.8.7",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
     "react-helmet": "^5.2.0",
-    "typescript": "^3.1.6"
+    "react-jss": "^8.6.1",
+    "react-typography": "^0.16.13",
+    "typeface-roboto": "^0.0.54",
+    "typescript": "^3.1.6",
+    "typography": "^0.16.17"
   },
   "devDependencies": {
     "@types/react": "^16.4.18",
