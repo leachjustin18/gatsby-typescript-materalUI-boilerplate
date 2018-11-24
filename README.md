@@ -1,1 +1,1 @@
-# gatsby-typescript-materalUi-boilerplate
+# gatsby-typescript-materalUI-boilerplate
