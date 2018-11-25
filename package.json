@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-typescript-boilerplate",
-  "description": "Gatsby Typescript boilerplate",
+  "name": "gatsby-typescript-materialui-boilerplate",
+  "description": "Gatsby Typescript Material-UI boilerplate",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
